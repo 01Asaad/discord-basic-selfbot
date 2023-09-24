@@ -1,0 +1,19 @@
+{
+    "myself" : ["123", "456"],
+    "self call" : "selfcall",
+    "multiple call" : "multa",
+    "all call" : "aula",
+    "log channel" : "123",
+    "channels to track" : [],
+    "settings" :
+        {
+            "dm to gz" : 0,
+            "send all reaction events" : 0
+        },
+    "count" : 0,
+    "saved channels" : {},
+    "state" : 1,
+    "log" : "",
+    "open logger" : "",
+    "online" : true
+}

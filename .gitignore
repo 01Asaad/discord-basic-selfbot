@@ -1,0 +1,7 @@
+.vscode
+__pycache__
+tokenlist.txt
+tokenlist copy.txt
+.env
+f commands.txt
+f.py
